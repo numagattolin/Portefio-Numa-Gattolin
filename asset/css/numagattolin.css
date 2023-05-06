@@ -105,8 +105,9 @@
 .container {
   display: flex;
   flex-direction: column;
-  align-items: center;
+  justify-content: center;
   margin-right: 200px;
+  
 }
 
 .wrapper1 {
@@ -123,7 +124,7 @@
   /*haut ou bas*/
 }
 
-.profile {
+.profil {
   background-image: url("");
   background-position: center;
   background-size: cover;
@@ -132,6 +133,56 @@
   padding: 50px;
 }
 
+/*2eme images*/
+
+.wrapper2 {
+  background-color: #fff;
+  border-radius: 15px;
+  overflow: hidden;
+  margin-left: 650px;
+  width: 350px;
+  /*largeur image*/
+  box-shadow: 0px 4px 30px rgb(255, 255, 255);
+  height: 350px;
+  /*haueur image*/
+  margin-top: -350px;
+  /*haut ou bas*/
+
+}
+
+.profile1 {
+  background-image: url("");
+  background-position: center;
+  background-size: cover;
+  position: relative;
+  margin: 50px;
+  padding: 50px;
+}
+
+.wrapper3 {
+  background-color: #fff;
+  border-radius: 15px;
+  overflow: hidden;
+  margin-left: 1099px;
+  width: 350px;
+  /*largeur image*/
+  box-shadow: 0px 4px 30px rgb(255, 255, 255);
+  height: 350px;
+  /*haueur image*/
+  margin-top: -350px;
+  /*haut ou bas*/
+
+}
+
+
+.profile2 {
+  background-image: url("");
+  background-position: center;
+  background-size: cover;
+  position: relative;
+  margin: 50px;
+  padding: 50px;
+}
 
 
 
