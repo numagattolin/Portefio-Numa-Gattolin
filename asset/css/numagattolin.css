@@ -251,36 +251,37 @@ h1 {
   padding: 50px;
 }
 
+/*explication text*/
 .container .p1 {
 
   color: #000000;
-  margin-left: 350px;
-  width: 100px;
-  /*largeur image*/
-  height: 350px;
-  /*haueur image*/
-  margin-top: 500px;
-  /*haut ou bas*/ 
+  margin-left: 100px;
+  margin-top: 300px;
+
 
 }
 
-/*expliquation*/
-/*page groupie tracker*/
+.wrapper6 {
 
-.wrapper11 {
   background-color: #fff;
   border-radius: 15px;
   overflow: hidden;
-  margin-left: 1420px;
+  margin-left: 195px;
   width: 350px;
   /*largeur image*/
   box-shadow: 0px 4px 30px rgb(255, 255, 255);
   height: 350px;
   /*haueur image*/
-  margin-top: 190px;
+  margin-top: 100px;
   /*haut ou bas*/ 
 }
-.profile12 {
+
+.wrapper6 .img {
+margin: 50px;
+padding: 50px;
+}
+
+.profile5 {
   background-image: url("");
   background-position: center;
   background-size: cover;
@@ -288,6 +289,176 @@ h1 {
   margin: 50px;
   padding: 50px;
 }
+
+.wrapper7 {
+
+  background-color: #fff;
+  border-radius: 15px;
+  overflow: hidden;
+  margin-left: 650px;
+  width: 350px;
+  /*largeur image*/
+  box-shadow: 0px 4px 30px rgb(255, 255, 255);
+  height: 350px;
+  /*haueur image*/
+  margin-top: -350px;
+  /*haut ou bas*/ 
+
+}
+
+.profile6 {
+  background-image: url("");
+  background-position: center;
+  background-size: cover;
+  position: relative;
+  margin: 50px;
+  padding: 50px;
+}
+
+.wrapper8 {
+
+  background-color: #fff;
+  border-radius: 15px;
+  overflow: hidden;
+  margin-left: 1099px;
+  width: 350px;
+  /*largeur image*/
+  box-shadow: 0px 4px 30px rgb(255, 255, 255);
+  height: 350px;
+  /*haueur image*/
+  margin-top: -350px;
+  /*haut ou bas*/ 
+
+}
+
+.profile7 {
+  background-image: url("");
+  background-position: center;
+  background-size: cover;
+  position: relative;
+  margin: 50px;
+  padding: 50px;
+}
+
+.wrapper9 {
+
+  background-color: #fff;
+  border-radius: 15px;
+  overflow: hidden;
+  margin-left: 190px;
+  width: 350px;
+  /*largeur image*/
+  box-shadow: 0px 4px 30px rgb(255, 255, 255);
+  height: 350px;
+  /*haueur image*/
+  margin-top: 100px;
+  /*haut ou bas*/ 
+
+}
+
+.profile8 {
+  background-image: url("");
+  background-position: center;
+  background-size: cover;
+  position: relative;
+  margin: 50px;
+  padding: 50px;
+}
+
+.wrapper10 {
+
+  background-color: #fff;
+  border-radius: 15px;
+  overflow: hidden;
+  margin-left: 190px;
+  width: 350px;
+  /*largeur image*/
+  box-shadow: 0px 4px 30px rgb(255, 255, 255);
+  height: 350px;
+  /*haueur image*/
+  margin-top: 100px;
+  /*haut ou bas*/ 
+
+}
+
+.profile9 {
+  background-image: url("");
+  background-position: center;
+  background-size: cover;
+  position: relative;
+  margin: 50px;
+  padding: 50px;
+}
+/*expliquation programmation*/
+/*Ylocks*/
+/*fiche ylocks*/
+/*text*/
+
+.container .h2 {
+  background-image: url("");
+  background-position: center;
+  background-size: cover;
+  position: relative;
+  margin-bottom: 20px;
+  text-decoration: underline;
+}
+
+.wrapper10 {
+  background-color: #fff;
+  border-radius: 15px;
+  overflow: hidden;
+  margin-left: 215px;
+  width: 800px;
+  /*largeur image*/
+  box-shadow: 0px 4px 30px rgb(255, 255, 255);
+  height: 390px;
+  /*haueur image*/
+  margin-top: 190px;
+  /*haut ou bas*/ 
+}
+
+
+.profile5 {
+  background-image: url("");
+  background-position: center;
+  background-size: cover;
+  position: relative;
+  margin: 50px;
+  padding: 50px;
+}
+
+.wrapper11 {
+  background-color: #fff;
+  border-radius: 15px;
+  overflow: hidden;
+  margin-left: 1390px;
+  width: 350px;
+  /*largeur image*/
+  box-shadow: 0px 4px 30px rgb(255, 255, 255);
+  height: 350px;
+  /*haueur image*/
+  margin-top: -350px;
+  /*haut ou bas*/ 
+}
+
+
+.profile6 {
+  background-image: url("");
+  background-position: center;
+  background-size: cover;
+  position: relative;
+  margin: 50px;
+  padding: 50px;
+}
+
+
+
+
+
+
+
+
+/*page groupie tracker*/
 
   @media all and (max-width: 991px) {
       header {
